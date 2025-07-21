@@ -7,7 +7,7 @@ const AboutMe = () => {
     {
       icon: '🏠',
       title: 'Origin',
-      content: 'From Puducherry, India'
+      content: 'From T.solankurchi, India'
     },
     {
       icon: '🎓',
