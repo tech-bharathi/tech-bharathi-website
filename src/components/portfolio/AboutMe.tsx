@@ -7,7 +7,7 @@ const AboutMe = () => {
     {
       icon: '🏠',
       title: 'Origin',
-      content: 'From T.solankurchi, India'
+      content: 'From T.solankurchi,Ariyalur India'
     },
     {
       icon: '🎓',
@@ -21,7 +21,7 @@ const AboutMe = () => {
     {
       icon: '🗣️',
       title: 'Languages',
-      content: ['Tamil (Native)', 'Telugu (Fluent)', 'English (Professional)']
+      content: ['Tamil (Native)', 'Telugu', 'English (Professional)']
     },
     {
       icon: '🏀',
